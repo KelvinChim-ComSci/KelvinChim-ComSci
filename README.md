@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile!
 
 <!--
 **KelvinChim-ComSci/KelvinChim-ComSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Kelvin, a fresh graduate from CUHK.
+Currently working as a frontend developer.
+
+🏤 Major: Computational and Applied Mathematics, Minor: Computer Science
+
