@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 I am Kelvin Chim, a fresh graduate from CUHK,
 currently working as a frontend developer. My dream is to create and produce an astounding game that would inspire more people!
 
-🈺 Current Working as: Frontend Developer  
-🏤 Major: Computational and Applied Mathematics, Minor: Computer Science (Graduate of 2022, Chinese University of Hong Kong)  
-🌱 Other related fields: Machine Learning, Optimization  
-✨ Things I wish to learn in the future: Game Design related developing skills  
+* Current Working as: Frontend Developer  
+* Graduated From: The Chinese University of Hong Kong with a Second Upper Class Honour.
+  * Major: Mathematics, Computational and Applied Mathematics Stream.  
+  * Minor: Computer Science.  
+* Other related fields: Machine Learning, Optimization  
+* Things I wish to learn in the future: Game Design related developing skills  
 
 <hr />
 
