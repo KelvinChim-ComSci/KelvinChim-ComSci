@@ -18,16 +18,20 @@ I am Kelvin Chim, a fresh graduate from CUHK,
 currently working as a frontend developer. My dream is to create and produce an astounding game that would inspire more people!
 
 * Current Working as: Frontend Developer  
-* Graduated From: The Chinese University of Hong Kong with a Second Upper Class Honour.
-  * Major: Mathematics, Computational and Applied Mathematics Stream.  
-  * Minor: Computer Science.  
+* Graduated From: The Chinese University of Hong Kong with a Second Upper Class Honour
+  * Major: Mathematics, Computational and Applied Mathematics Stream  
+  * Minor: Computer Science  
 * Other related fields: Machine Learning, Optimization  
 * Things I wish to learn in the future: Game Design related developing skills  
 
 <hr />
 
-### Languages:　
+## Github Profile Summary:  
+<p align="center" width="100%">
+    <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinchim-comsci&theme=vue">
+</p>
 
+### Languages:　
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 ### Frameworks & Library:
